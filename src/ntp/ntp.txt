@@ -1,0 +1,10 @@
+1.
+протокол для взаимодействия ntp-клиента и ntp-сервера используется UDP
+
+2.
+Destination port: 123 (всегда этот порт)
+Sourse port: динамичкский
+
+3.
+Значение  Transmit Timestamp в первом пакете NTP:
+Transmit Timestamp: Apr 30, 2025 10:12:49.131980278 UTC
